@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Dev\\PROJECTS\\Minimal\\",
+  "WorkspaceRootPath": "C:\\Dev\\PROJECTS\\minimal-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7658762-2969-4592-9A4C-267014E12889}|Web.Api\\Web.Api.csproj|c:\\dev\\projects\\minimal\\web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7658762-2969-4592-9A4C-267014E12889}|Web.Api\\Web.Api.csproj|solutionrelative:web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7658762-2969-4592-9A4C-267014E12889}|Web.Api\\Web.Api.csproj|c:\\dev\\projects\\minimal\\web.api\\endpoints\\customerendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7658762-2969-4592-9A4C-267014E12889}|Web.Api\\Web.Api.csproj|c:\\dev\\projects\\minimal-api\\web.api\\endpoints\\customerendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7658762-2969-4592-9A4C-267014E12889}|Web.Api\\Web.Api.csproj|solutionrelative:web.api\\endpoints\\customerendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7658762-2969-4592-9A4C-267014E12889}|Web.Api\\Web.Api.csproj|c:\\dev\\projects\\minimal\\web.api\\services\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7658762-2969-4592-9A4C-267014E12889}|Web.Api\\Web.Api.csproj|c:\\dev\\projects\\minimal-api\\web.api\\services\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7658762-2969-4592-9A4C-267014E12889}|Web.Api\\Web.Api.csproj|solutionrelative:web.api\\services\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7658762-2969-4592-9A4C-267014E12889}|Web.Api\\Web.Api.csproj|c:\\dev\\projects\\minimal\\web.api\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7658762-2969-4592-9A4C-267014E12889}|Web.Api\\Web.Api.csproj|solutionrelative:web.api\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7658762-2969-4592-9A4C-267014E12889}|Web.Api\\Web.Api.csproj|c:\\dev\\projects\\minimal-api\\web.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B7658762-2969-4592-9A4C-267014E12889}|Web.Api\\Web.Api.csproj|solutionrelative:web.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7658762-2969-4592-9A4C-267014E12889}|Web.Api\\Web.Api.csproj|c:\\dev\\projects\\minimal\\web.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B7658762-2969-4592-9A4C-267014E12889}|Web.Api\\Web.Api.csproj|solutionrelative:web.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B7658762-2969-4592-9A4C-267014E12889}|Web.Api\\Web.Api.csproj|c:\\dev\\projects\\minimal-api\\web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7658762-2969-4592-9A4C-267014E12889}|Web.Api\\Web.Api.csproj|solutionrelative:web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7658762-2969-4592-9A4C-267014E12889}|Web.Api\\Web.Api.csproj|c:\\dev\\projects\\minimal-api\\web.api\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7658762-2969-4592-9A4C-267014E12889}|Web.Api\\Web.Api.csproj|solutionrelative:web.api\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,11 +42,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "SqlConnectionFactory.cs",
-              "DocumentMoniker": "C:\\Dev\\PROJECTS\\Minimal\\Web.Api\\Services\\SqlConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Dev\\PROJECTS\\minimal-api\\Web.Api\\Services\\SqlConnectionFactory.cs",
               "RelativeDocumentMoniker": "Web.Api\\Services\\SqlConnectionFactory.cs",
-              "ToolTip": "C:\\Dev\\PROJECTS\\Minimal\\Web.Api\\Services\\SqlConnectionFactory.cs",
+              "ToolTip": "C:\\Dev\\PROJECTS\\minimal-api\\Web.Api\\Services\\SqlConnectionFactory.cs",
               "RelativeToolTip": "Web.Api\\Services\\SqlConnectionFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,37 +55,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CustomerEndpoints.cs",
-              "DocumentMoniker": "C:\\Dev\\PROJECTS\\Minimal\\Web.Api\\Endpoints\\CustomerEndpoints.cs",
+              "DocumentMoniker": "C:\\Dev\\PROJECTS\\minimal-api\\Web.Api\\Endpoints\\CustomerEndpoints.cs",
               "RelativeDocumentMoniker": "Web.Api\\Endpoints\\CustomerEndpoints.cs",
-              "ToolTip": "C:\\Dev\\PROJECTS\\Minimal\\Web.Api\\Endpoints\\CustomerEndpoints.cs",
+              "ToolTip": "C:\\Dev\\PROJECTS\\minimal-api\\Web.Api\\Endpoints\\CustomerEndpoints.cs",
               "RelativeToolTip": "Web.Api\\Endpoints\\CustomerEndpoints.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwAoAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCUAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T07:46:46.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Dev\\PROJECTS\\Minimal\\Web.Api\\Models\\Customer.cs",
+              "DocumentMoniker": "C:\\Dev\\PROJECTS\\minimal-api\\Web.Api\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "Web.Api\\Models\\Customer.cs",
-              "ToolTip": "C:\\Dev\\PROJECTS\\Minimal\\Web.Api\\Models\\Customer.cs",
+              "ToolTip": "C:\\Dev\\PROJECTS\\minimal-api\\Web.Api\\Models\\Customer.cs",
               "RelativeToolTip": "Web.Api\\Models\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T06:13:01.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T06:13:01.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Dev\\PROJECTS\\Minimal\\Web.Api\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Dev\\PROJECTS\\minimal-api\\Web.Api\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Web.Api\\appsettings.Development.json",
-              "ToolTip": "C:\\Dev\\PROJECTS\\Minimal\\Web.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Dev\\PROJECTS\\minimal-api\\Web.Api\\appsettings.Development.json",
               "RelativeToolTip": "Web.Api\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -94,11 +93,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Dev\\PROJECTS\\Minimal\\Web.Api\\Program.cs",
+              "DocumentMoniker": "C:\\Dev\\PROJECTS\\minimal-api\\Web.Api\\Program.cs",
               "RelativeDocumentMoniker": "Web.Api\\Program.cs",
-              "ToolTip": "C:\\Dev\\PROJECTS\\Minimal\\Web.Api\\Program.cs",
+              "ToolTip": "C:\\Dev\\PROJECTS\\minimal-api\\Web.Api\\Program.cs",
               "RelativeToolTip": "Web.Api\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
