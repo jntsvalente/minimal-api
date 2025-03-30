@@ -10,7 +10,7 @@ namespace Web.Api.Endpoints
         {
             var group = builder.MapGroup("v1/customers");
 
-            group.MapGet("", async (SqlConnectionFactory sqlConnectionFactory) =>
+            group.MapGet("", async (ISqlConnectionFactory sqlConnectionFactory) =>
             {
                 using var connection = sqlConnectionFactory.Create();
 
@@ -21,7 +21,7 @@ namespace Web.Api.Endpoints
                 return Results.Ok(customers);
             });
 
-            group.MapGet("{customerId:int}", async (int customerId, SqlConnectionFactory sqlConnectionFactory) =>
+            group.MapGet("{customerId:int}", async (int customerId, ISqlConnectionFactory sqlConnectionFactory) =>
             {
                 using var connection = sqlConnectionFactory.Create();
 
@@ -38,7 +38,7 @@ namespace Web.Api.Endpoints
                 return customer is not null ? Results.Ok(customer) : Results.NotFound();
             });
 
-            group.MapPost("", async (Customer customer, SqlConnectionFactory sqlConnectionFactory) =>
+            group.MapPost("", async (Customer customer, ISqlConnectionFactory sqlConnectionFactory) =>
             {
                 using var connection = sqlConnectionFactory.Create();
 
@@ -52,7 +52,7 @@ namespace Web.Api.Endpoints
                 return Results.Ok();
             });
 
-            group.MapPut("{customerId:int}", async (int customerId, Customer customer, SqlConnectionFactory sqlConnectionFactory) =>
+            group.MapPut("{customerId:int}", async (int customerId, Customer customer, ISqlConnectionFactory sqlConnectionFactory) =>
             {
                 using var connection = sqlConnectionFactory.Create();
 
@@ -72,7 +72,7 @@ namespace Web.Api.Endpoints
                 return Results.NoContent();
             });
 
-            group.MapDelete("{customerId:int}", async (int customerId, Customer customer, SqlConnectionFactory sqlConnectionFactory) =>
+            group.MapDelete("{customerId:int}", async (int customerId, Customer customer, ISqlConnectionFactory sqlConnectionFactory) =>
             {
                 using var connection = sqlConnectionFactory.Create();
 

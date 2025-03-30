@@ -2,7 +2,12 @@
 
 namespace Web.Api.Services
 {
-    public class SqlConnectionFactory
+    public interface ISqlConnectionFactory
+    {
+        public SqlConnection Create();
+    }
+
+    public class SqlConnectionFactory : ISqlConnectionFactory
     {
         private readonly string _connectionString;
 

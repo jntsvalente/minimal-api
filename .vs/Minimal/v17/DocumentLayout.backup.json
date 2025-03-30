@@ -50,8 +50,7 @@
               "RelativeToolTip": "Web.Api\\Services\\SqlConnectionFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T07:50:54.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T07:50:54.811Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "Web.Api\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-21T06:06:45.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T06:06:45.354Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "Web.Api\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T10:41:11.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T10:41:11.19Z"
             }
           ]
         }
