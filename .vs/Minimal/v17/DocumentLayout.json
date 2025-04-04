@@ -50,8 +50,7 @@
               "RelativeToolTip": "Web.Api\\Services\\SqlConnectionFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T07:50:54.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T07:50:54.811Z"
             },
             {
               "$type": "Document",
@@ -61,7 +60,7 @@
               "RelativeDocumentMoniker": "Web.Api\\Endpoints\\CustomerEndpoints.cs",
               "ToolTip": "C:\\Dev\\PROJECTS\\minimal-api\\Web.Api\\Endpoints\\CustomerEndpoints.cs",
               "RelativeToolTip": "Web.Api\\Endpoints\\CustomerEndpoints.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwEwAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwEwAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T07:46:46.743Z",
               "EditorCaption": ""
@@ -100,8 +99,7 @@
               "RelativeToolTip": "Web.Api\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T10:41:11.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T10:41:11.19Z"
             }
           ]
         }
