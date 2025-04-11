@@ -1,3 +1,3 @@
-# Minimal Web API with Dapper
+# Minimal API
 
-A simple Minimal Web API with Dapper for lightweight and high-performance data access.
+A simple Minimal API using Dapper for lightweight and high-performance data access.
